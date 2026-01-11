@@ -1,5 +1,8 @@
 # Physique de l'Atome : Entre Modèles Classiques et États Exotiques
 
+<img width="1024" height="1024" alt="Atome unifié" src="https://github.com/user-attachments/assets/084cc653-cea9-4300-bc4d-5b8a18188625" />
+
+
 Ce dépôt rassemble des recherches approfondies sur l'évolution de notre compréhension de la matière. Il explore la transition entre la vision historique de l'atome et les découvertes les plus récentes de 2024-2025 concernant la frustration géométrique et les champs scalaires.
 
 ## 🔬 Thématiques Principales
